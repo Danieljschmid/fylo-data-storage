@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&display=swap');
+
+.gradient-background {
+	background: linear-gradient(90deg, hsl(6, 100%, 80%), hsl(335, 100%, 65%));
+}
+
+.font-raleway {
+	font-family: 'Raleway', sans-serif;
+}
+
+.text-grayish-blue {
+	color: hsl(229, 7%, 55%);
+}
+
+.white-box-2 {
+	display: none;
+}
+
+@media only screen and (min-width: 730px) {
+	.storage-card {
+		width: 100%;
+		max-width: 600px;
+	}
+	.white-box {
+		display: none;
+	}
+
+	.white-box-2 {
+		display: flex;
+		margin-right: 40px;
+		position: relative;
+		border-bottom-right-radius: 0%;
+	}
+	.white-box-2:after {
+		content: '';
+		position: absolute;
+		bottom: 0;
+		left: 95%;
+		width: 0;
+		height: 0;
+		border: 20px solid transparent;
+		border-top-color: #fff;
+		border-bottom: 0;
+		border-right: 0;
+		margin-left: -10px;
+		margin-bottom: -20px;
+	}
+}
+
+@media only screen and (max-width: 730px) {
+	.card-container {
+		min-width: 330px;
+		max-width: 400px;
+	}
+}
