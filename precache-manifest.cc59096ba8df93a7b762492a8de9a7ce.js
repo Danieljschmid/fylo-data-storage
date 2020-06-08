@@ -1,0 +1,50 @@
+self.__precacheManifest = (self.__precacheManifest || []).concat([
+  {
+    "revision": "ad22f4d78354eaf6967b655ce10724c5",
+    "url": "/Danieljschmid/fylo-data-storage.git/index.html"
+  },
+  {
+    "revision": "090db8c635ed23c5fcdd",
+    "url": "/Danieljschmid/fylo-data-storage.git/static/css/main.2b36ccde.chunk.css"
+  },
+  {
+    "revision": "e40da6acf7ad8d6f4d6f",
+    "url": "/Danieljschmid/fylo-data-storage.git/static/js/2.102cf013.chunk.js"
+  },
+  {
+    "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
+    "url": "/Danieljschmid/fylo-data-storage.git/static/js/2.102cf013.chunk.js.LICENSE.txt"
+  },
+  {
+    "revision": "090db8c635ed23c5fcdd",
+    "url": "/Danieljschmid/fylo-data-storage.git/static/js/main.28b30ed3.chunk.js"
+  },
+  {
+    "revision": "558f9ff4a5dac673e1ce",
+    "url": "/Danieljschmid/fylo-data-storage.git/static/js/runtime-main.393e9afd.js"
+  },
+  {
+    "revision": "5e51d69c1c7b195298760040fa47ffef",
+    "url": "/Danieljschmid/fylo-data-storage.git/static/media/bg-desktop.5e51d69c.svg"
+  },
+  {
+    "revision": "9173c28aa9adb301e78331f49df34fe2",
+    "url": "/Danieljschmid/fylo-data-storage.git/static/media/bg-mobile.9173c28a.svg"
+  },
+  {
+    "revision": "db85d9372de3902ba2798d7e10a8fcb5",
+    "url": "/Danieljschmid/fylo-data-storage.git/static/media/icon-document.db85d937.svg"
+  },
+  {
+    "revision": "b76d31f55bbb75eb121a1fe963e50a3c",
+    "url": "/Danieljschmid/fylo-data-storage.git/static/media/icon-folder.b76d31f5.svg"
+  },
+  {
+    "revision": "b7e6adf04dcc6059d9c5cb29fdb7b1d3",
+    "url": "/Danieljschmid/fylo-data-storage.git/static/media/icon-upload.b7e6adf0.svg"
+  },
+  {
+    "revision": "35d2c7c63e4db2296166ac69f20941c9",
+    "url": "/Danieljschmid/fylo-data-storage.git/static/media/logo.35d2c7c6.svg"
+  }
+]);

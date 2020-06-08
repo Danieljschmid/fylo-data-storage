@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/Danieljschmid/fylo-data-storage-project.git/static/css/main.7050fa5d.chunk.css",
-    "main.js": "/Danieljschmid/fylo-data-storage-project.git/static/js/main.65ae074b.chunk.js",
-    "main.js.map": "/Danieljschmid/fylo-data-storage-project.git/static/js/main.65ae074b.chunk.js.map",
-    "runtime-main.js": "/Danieljschmid/fylo-data-storage-project.git/static/js/runtime-main.736653a3.js",
-    "runtime-main.js.map": "/Danieljschmid/fylo-data-storage-project.git/static/js/runtime-main.736653a3.js.map",
-    "static/js/2.102cf013.chunk.js": "/Danieljschmid/fylo-data-storage-project.git/static/js/2.102cf013.chunk.js",
-    "static/js/2.102cf013.chunk.js.map": "/Danieljschmid/fylo-data-storage-project.git/static/js/2.102cf013.chunk.js.map",
-    "index.html": "/Danieljschmid/fylo-data-storage-project.git/index.html",
-    "precache-manifest.c856c52ab86375e68bce2f8345680919.js": "/Danieljschmid/fylo-data-storage-project.git/precache-manifest.c856c52ab86375e68bce2f8345680919.js",
-    "service-worker.js": "/Danieljschmid/fylo-data-storage-project.git/service-worker.js",
-    "static/css/main.7050fa5d.chunk.css.map": "/Danieljschmid/fylo-data-storage-project.git/static/css/main.7050fa5d.chunk.css.map",
-    "static/js/2.102cf013.chunk.js.LICENSE.txt": "/Danieljschmid/fylo-data-storage-project.git/static/js/2.102cf013.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/Danieljschmid/fylo-data-storage-project.git/static/media/bg-mobile.9173c28a.svg",
-    "static/media/icon-document.svg": "/Danieljschmid/fylo-data-storage-project.git/static/media/icon-document.db85d937.svg",
-    "static/media/icon-folder.svg": "/Danieljschmid/fylo-data-storage-project.git/static/media/icon-folder.b76d31f5.svg",
-    "static/media/icon-upload.svg": "/Danieljschmid/fylo-data-storage-project.git/static/media/icon-upload.b7e6adf0.svg",
-    "static/media/logo.svg": "/Danieljschmid/fylo-data-storage-project.git/static/media/logo.35d2c7c6.svg"
+    "main.css": "/Danieljschmid/fylo-data-storage.git/static/css/main.2b36ccde.chunk.css",
+    "main.js": "/Danieljschmid/fylo-data-storage.git/static/js/main.28b30ed3.chunk.js",
+    "main.js.map": "/Danieljschmid/fylo-data-storage.git/static/js/main.28b30ed3.chunk.js.map",
+    "runtime-main.js": "/Danieljschmid/fylo-data-storage.git/static/js/runtime-main.393e9afd.js",
+    "runtime-main.js.map": "/Danieljschmid/fylo-data-storage.git/static/js/runtime-main.393e9afd.js.map",
+    "static/js/2.102cf013.chunk.js": "/Danieljschmid/fylo-data-storage.git/static/js/2.102cf013.chunk.js",
+    "static/js/2.102cf013.chunk.js.map": "/Danieljschmid/fylo-data-storage.git/static/js/2.102cf013.chunk.js.map",
+    "index.html": "/Danieljschmid/fylo-data-storage.git/index.html",
+    "precache-manifest.cc59096ba8df93a7b762492a8de9a7ce.js": "/Danieljschmid/fylo-data-storage.git/precache-manifest.cc59096ba8df93a7b762492a8de9a7ce.js",
+    "service-worker.js": "/Danieljschmid/fylo-data-storage.git/service-worker.js",
+    "static/css/main.2b36ccde.chunk.css.map": "/Danieljschmid/fylo-data-storage.git/static/css/main.2b36ccde.chunk.css.map",
+    "static/js/2.102cf013.chunk.js.LICENSE.txt": "/Danieljschmid/fylo-data-storage.git/static/js/2.102cf013.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Danieljschmid/fylo-data-storage.git/static/media/bg-mobile.9173c28a.svg",
+    "static/media/icon-document.svg": "/Danieljschmid/fylo-data-storage.git/static/media/icon-document.db85d937.svg",
+    "static/media/icon-folder.svg": "/Danieljschmid/fylo-data-storage.git/static/media/icon-folder.b76d31f5.svg",
+    "static/media/icon-upload.svg": "/Danieljschmid/fylo-data-storage.git/static/media/icon-upload.b7e6adf0.svg",
+    "static/media/logo.svg": "/Danieljschmid/fylo-data-storage.git/static/media/logo.35d2c7c6.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.736653a3.js",
+    "static/js/runtime-main.393e9afd.js",
     "static/js/2.102cf013.chunk.js",
-    "static/css/main.7050fa5d.chunk.css",
-    "static/js/main.65ae074b.chunk.js"
+    "static/css/main.2b36ccde.chunk.css",
+    "static/js/main.28b30ed3.chunk.js"
   ]
 }
