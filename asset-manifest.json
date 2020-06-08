@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/Danieljschmid/fylo-data-storage.git/static/css/main.2b36ccde.chunk.css",
-    "main.js": "/Danieljschmid/fylo-data-storage.git/static/js/main.28b30ed3.chunk.js",
-    "main.js.map": "/Danieljschmid/fylo-data-storage.git/static/js/main.28b30ed3.chunk.js.map",
-    "runtime-main.js": "/Danieljschmid/fylo-data-storage.git/static/js/runtime-main.393e9afd.js",
-    "runtime-main.js.map": "/Danieljschmid/fylo-data-storage.git/static/js/runtime-main.393e9afd.js.map",
-    "static/js/2.102cf013.chunk.js": "/Danieljschmid/fylo-data-storage.git/static/js/2.102cf013.chunk.js",
-    "static/js/2.102cf013.chunk.js.map": "/Danieljschmid/fylo-data-storage.git/static/js/2.102cf013.chunk.js.map",
-    "index.html": "/Danieljschmid/fylo-data-storage.git/index.html",
-    "precache-manifest.cc59096ba8df93a7b762492a8de9a7ce.js": "/Danieljschmid/fylo-data-storage.git/precache-manifest.cc59096ba8df93a7b762492a8de9a7ce.js",
-    "service-worker.js": "/Danieljschmid/fylo-data-storage.git/service-worker.js",
-    "static/css/main.2b36ccde.chunk.css.map": "/Danieljschmid/fylo-data-storage.git/static/css/main.2b36ccde.chunk.css.map",
-    "static/js/2.102cf013.chunk.js.LICENSE.txt": "/Danieljschmid/fylo-data-storage.git/static/js/2.102cf013.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/Danieljschmid/fylo-data-storage.git/static/media/bg-mobile.9173c28a.svg",
-    "static/media/icon-document.svg": "/Danieljschmid/fylo-data-storage.git/static/media/icon-document.db85d937.svg",
-    "static/media/icon-folder.svg": "/Danieljschmid/fylo-data-storage.git/static/media/icon-folder.b76d31f5.svg",
-    "static/media/icon-upload.svg": "/Danieljschmid/fylo-data-storage.git/static/media/icon-upload.b7e6adf0.svg",
-    "static/media/logo.svg": "/Danieljschmid/fylo-data-storage.git/static/media/logo.35d2c7c6.svg"
+    "main.css": "/danieljschmid/fylo-data-storage.git/static/css/main.ea4b00e4.chunk.css",
+    "main.js": "/danieljschmid/fylo-data-storage.git/static/js/main.693470a6.chunk.js",
+    "main.js.map": "/danieljschmid/fylo-data-storage.git/static/js/main.693470a6.chunk.js.map",
+    "runtime-main.js": "/danieljschmid/fylo-data-storage.git/static/js/runtime-main.509a3529.js",
+    "runtime-main.js.map": "/danieljschmid/fylo-data-storage.git/static/js/runtime-main.509a3529.js.map",
+    "static/js/2.102cf013.chunk.js": "/danieljschmid/fylo-data-storage.git/static/js/2.102cf013.chunk.js",
+    "static/js/2.102cf013.chunk.js.map": "/danieljschmid/fylo-data-storage.git/static/js/2.102cf013.chunk.js.map",
+    "index.html": "/danieljschmid/fylo-data-storage.git/index.html",
+    "precache-manifest.2978926101db8ac54707e1665640d030.js": "/danieljschmid/fylo-data-storage.git/precache-manifest.2978926101db8ac54707e1665640d030.js",
+    "service-worker.js": "/danieljschmid/fylo-data-storage.git/service-worker.js",
+    "static/css/main.ea4b00e4.chunk.css.map": "/danieljschmid/fylo-data-storage.git/static/css/main.ea4b00e4.chunk.css.map",
+    "static/js/2.102cf013.chunk.js.LICENSE.txt": "/danieljschmid/fylo-data-storage.git/static/js/2.102cf013.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/danieljschmid/fylo-data-storage.git/static/media/bg-mobile.9173c28a.svg",
+    "static/media/icon-document.svg": "/danieljschmid/fylo-data-storage.git/static/media/icon-document.db85d937.svg",
+    "static/media/icon-folder.svg": "/danieljschmid/fylo-data-storage.git/static/media/icon-folder.b76d31f5.svg",
+    "static/media/icon-upload.svg": "/danieljschmid/fylo-data-storage.git/static/media/icon-upload.b7e6adf0.svg",
+    "static/media/logo.svg": "/danieljschmid/fylo-data-storage.git/static/media/logo.35d2c7c6.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.393e9afd.js",
+    "static/js/runtime-main.509a3529.js",
     "static/js/2.102cf013.chunk.js",
-    "static/css/main.2b36ccde.chunk.css",
-    "static/js/main.28b30ed3.chunk.js"
+    "static/css/main.ea4b00e4.chunk.css",
+    "static/js/main.693470a6.chunk.js"
   ]
 }
