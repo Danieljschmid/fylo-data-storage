@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/fylo-data-storage.git/static/css/main.0f5e8d93.chunk.css",
-    "main.js": "/fylo-data-storage.git/static/js/main.803714c5.chunk.js",
-    "main.js.map": "/fylo-data-storage.git/static/js/main.803714c5.chunk.js.map",
-    "runtime-main.js": "/fylo-data-storage.git/static/js/runtime-main.9b6d4879.js",
-    "runtime-main.js.map": "/fylo-data-storage.git/static/js/runtime-main.9b6d4879.js.map",
-    "static/js/2.102cf013.chunk.js": "/fylo-data-storage.git/static/js/2.102cf013.chunk.js",
-    "static/js/2.102cf013.chunk.js.map": "/fylo-data-storage.git/static/js/2.102cf013.chunk.js.map",
-    "index.html": "/fylo-data-storage.git/index.html",
-    "precache-manifest.c320eddef3162a7203873a18880c3fbc.js": "/fylo-data-storage.git/precache-manifest.c320eddef3162a7203873a18880c3fbc.js",
-    "service-worker.js": "/fylo-data-storage.git/service-worker.js",
-    "static/css/main.0f5e8d93.chunk.css.map": "/fylo-data-storage.git/static/css/main.0f5e8d93.chunk.css.map",
-    "static/js/2.102cf013.chunk.js.LICENSE.txt": "/fylo-data-storage.git/static/js/2.102cf013.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/fylo-data-storage.git/static/media/bg-mobile.9173c28a.svg",
-    "static/media/icon-document.svg": "/fylo-data-storage.git/static/media/icon-document.db85d937.svg",
-    "static/media/icon-folder.svg": "/fylo-data-storage.git/static/media/icon-folder.b76d31f5.svg",
-    "static/media/icon-upload.svg": "/fylo-data-storage.git/static/media/icon-upload.b7e6adf0.svg",
-    "static/media/logo.svg": "/fylo-data-storage.git/static/media/logo.35d2c7c6.svg"
+    "main.css": "/fylo-data-storage/static/css/main.2f1cc1ef.chunk.css",
+    "main.js": "/fylo-data-storage/static/js/main.781404ee.chunk.js",
+    "main.js.map": "/fylo-data-storage/static/js/main.781404ee.chunk.js.map",
+    "runtime-main.js": "/fylo-data-storage/static/js/runtime-main.a1d00ad8.js",
+    "runtime-main.js.map": "/fylo-data-storage/static/js/runtime-main.a1d00ad8.js.map",
+    "static/js/2.102cf013.chunk.js": "/fylo-data-storage/static/js/2.102cf013.chunk.js",
+    "static/js/2.102cf013.chunk.js.map": "/fylo-data-storage/static/js/2.102cf013.chunk.js.map",
+    "index.html": "/fylo-data-storage/index.html",
+    "precache-manifest.0375f8d53e11fdee9a81cc992d7cdd0c.js": "/fylo-data-storage/precache-manifest.0375f8d53e11fdee9a81cc992d7cdd0c.js",
+    "service-worker.js": "/fylo-data-storage/service-worker.js",
+    "static/css/main.2f1cc1ef.chunk.css.map": "/fylo-data-storage/static/css/main.2f1cc1ef.chunk.css.map",
+    "static/js/2.102cf013.chunk.js.LICENSE.txt": "/fylo-data-storage/static/js/2.102cf013.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/fylo-data-storage/static/media/bg-mobile.9173c28a.svg",
+    "static/media/icon-document.svg": "/fylo-data-storage/static/media/icon-document.db85d937.svg",
+    "static/media/icon-folder.svg": "/fylo-data-storage/static/media/icon-folder.b76d31f5.svg",
+    "static/media/icon-upload.svg": "/fylo-data-storage/static/media/icon-upload.b7e6adf0.svg",
+    "static/media/logo.svg": "/fylo-data-storage/static/media/logo.35d2c7c6.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9b6d4879.js",
+    "static/js/runtime-main.a1d00ad8.js",
     "static/js/2.102cf013.chunk.js",
-    "static/css/main.0f5e8d93.chunk.css",
-    "static/js/main.803714c5.chunk.js"
+    "static/css/main.2f1cc1ef.chunk.css",
+    "static/js/main.781404ee.chunk.js"
   ]
 }
